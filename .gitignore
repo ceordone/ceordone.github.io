@@ -1,9 +1,0 @@
-cache/
-*.pyc
-themes/
-plugins/
-.Python
-develop_server.sh
-fabfile.py
-Makefile
-
